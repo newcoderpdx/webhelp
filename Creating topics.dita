@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="topic_ck3_lnf_pw">
+  <title>Creating topics</title>
+  <conbody>
+    <p>DITA content is organized into four main topic types: concept, task, reference, and glossary
+      entry.</p>
+
+    <p>Following are instructions on how to create them.</p>
+  </conbody>
+</concept>

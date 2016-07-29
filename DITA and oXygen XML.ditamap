@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Creating DITA Content with oXygen XML</title>
+ <topicref href="Introduction.dita"></topicref>
+ <topicref href="Creating%20topics.dita">
+  <topicref href="Creating%20a%20concept.dita"/>
+ <topicref href="Creating%20a%20task.dita"/>
+  <topicref href="Creating%20a%20reference.dita"></topicref>
+  <topicref href="Creating%20a%20glossentry.dita">
+ </topicref></topicref>
+ <topicref href="DITA%20Maps.dita">
+  <topicref href="Creating%20a%20DITA%20map.dita"></topicref>
+  <topicref href="Organizing%20a%20DITA%20map.dita"></topicref>
+  <topicref href="Transforming%20a%20DITA%20map%20into%20a%20WebHelp%20output.dita"></topicref>
+ </topicref>
+  <topicref href="Glossary.dita"></topicref>
+ <reltable title="Related links">
+  <relrow>
+   <relcell><topicref href="Creating%20topics.dita"></topicref></relcell>
+   <relcell><topicref href="Creating%20a%20concept.dita"/>
+    <topicref href="Creating%20a%20task.dita"/>
+    <topicref href="Creating%20a%20reference.dita"></topicref>
+    <topicref href="Creating%20a%20glossentry.dita">
+    </topicref></relcell></relrow>
+     <relrow>
+      <relcell><topicref href="DITA%20Maps.dita"></topicref></relcell>
+      <relcell> <topicref href="Creating%20a%20DITA%20map.dita"></topicref>
+       <topicref href="Organizing%20a%20DITA%20map.dita"></topicref>
+       <topicref href="Transforming%20a%20DITA%20map%20into%20a%20WebHelp%20output.dita"></topicref>
+       </relcell>
+  </relrow>
+ </reltable>
+   
+</map>

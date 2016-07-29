@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ybl_2zc_pw">
+  <title>Introduction</title>
+  <shortdesc>A brief guide for beginners.</shortdesc>
+  <body>
+    <note type="tip">The comprehensive help documentation for oXygen XML is located at <xref href="https://www.oxygenxml.com/documentation.html" format="html"></xref></note>
+    <p>This short tutorial will help the user easily create DITA content.</p>
+  </body>
+</topic>

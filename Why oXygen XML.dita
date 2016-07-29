@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_f2p_c1d_pw">
+ <title>Why oXygen XML?</title>
+ <conbody>
+  <p>Using DITA can be intimidating at first, even for those who have experience with markup languages like HTML. oXygen XML has several features that make authoring much easier:</p>
+  <ul>
+   <li>oXygen automatically inserts DOCTYPE declarations at the beginning of files</li><li>oXygen XML provides definitions of each tag</li>
+   <li>End tags are inserted automatically</li>
+   <li>The author view toolbar is reminiscent of Microsoft Word, most users will easily recognize
+    many functions</li>
+   <li>
+    <p>oXygen XML automatically populates some attributes for tags such as <codeph>note type</codeph></p>
+        
+   </li>
+   <li>oXygen XML immediately alerts the user of syntax errors with a red underline</li>
+  </ul>
+  
+ </conbody>
+</concept>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xdr_bpf_pw">
+    <title>Transforming a DITA map into a WebHelp output</title>
+    <shortdesc> oXygen XML has many attractive transformation scenarios. When you are in a DITA map
+        file (as opposed to a topic file), these are located on the bottom right side of the screen.
+        In this tutorial, we will choose the WebHelp Classic output.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the <uicontrol>Transformation Scenarios</uicontrol> dialog box.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the  <uicontrol>DITA Map Webhelp Classic</uicontrol> option.</cmd>
+            </step>
+            <step>
+                <cmd>The blue bar at the bottom of the screen will read <uicontrol>Transformation in progress.</uicontrol>.</cmd>
+                <stepresult>In just a few moments, your new WebHelp will open in your browser.</stepresult>
+            </step>
+        
+        </steps>
+    </taskbody>
+</task>

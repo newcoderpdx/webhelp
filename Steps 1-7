@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oXygen:ReusableComponent [
+<!ELEMENT oXygen:ReusableComponent (oXygen:ComponentDescription, oXygen:ComponentDefinition)>
+<!ATTLIST oXygen:ReusableComponent 
+    xmlns:oXygen CDATA #FIXED "http://www.oxygenxml.com/ns/dita/reuse" 
+    id CDATA #IMPLIED
+    xml:lang CDATA #IMPLIED
+    domains CDATA "(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)    (topic oXygen-reuse-d) "
+    class CDATA "- topic/topic oXygen:ReusableComponent/oXygen:ReusableComponent "    
+    xmlns:ditaarch CDATA #FIXED "http://dita.oasis-open.org/architecture/2005/"
+    ditaarch:DITAArchVersion CDATA #FIXED "1.2" 
+    >
+<!ELEMENT oXygen:ComponentDescription (#PCDATA)>
+<!ATTLIST oXygen:ComponentDescription 
+ class CDATA "- topic/title oXygen:ReusableComponent/oXygen:ComponentDescription ">
+<!ELEMENT oXygen:ComponentDefinition ANY>
+<!ATTLIST oXygen:ComponentDefinition
+    class CDATA "- topic/body oXygen:ReusableComponent/oXygen:ComponentDefinition ">
+
+<!ENTITY % dtd PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+%dtd;
+
+]>
+<oXygen:ReusableComponent id="ReusableComponent_odj_4vm_pw">
+    <oXygen:ComponentDescription>Steps 1-7</oXygen:ComponentDescription>
+    <oXygen:ComponentDefinition><taskbody id="taskbody_pdj_4vm_pw"><prereq>You'll need a functioning copy of oXygenXML. 30-day free trials are available at <xref href="http://www.oxygenxml.com" format="html">oXygenXML.com</xref> .</prereq><steps><step><cmd>Open oXygen XML.</cmd></step><step><cmd>Go the <uicontrol>File</uicontrol> menu.</cmd></step><step><cmd>Click on <uicontrol>New...</uicontrol></cmd></step><step><cmd>Under <uicontrol>Search or select a document type</uicontrol>, go to the folder that says <uicontrol>Framework templates</uicontrol>.</cmd></step><step><cmd>Click on the <uicontrol>DITA</uicontrol> folder.</cmd></step><step><cmd>Choose the <uicontrol>topic</uicontrol> folder.</cmd></step><step><cmd>Finally, click on the <uicontrol>concept</uicontrol> icon. </cmd><stepresult>A new concept topic will be created.</stepresult></step></steps></taskbody></oXygen:ComponentDefinition>
+</oXygen:ReusableComponent>

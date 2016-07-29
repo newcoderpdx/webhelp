@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xdr_bpf_pw">
+    <title>Organizing a DITA map</title>
+    <shortdesc> This brief series of steps will who you how to organize your DITA topics.</shortdesc>
+    <taskbody>
+        <context> When you first create your DITA map, it will be empty.  The <codeph>topicref href</codeph>
+            is used to insert your topics into a map.<note>Make sure all of your topic files are in
+                the same folder.</note></context>
+        <steps>
+            <step>
+                <cmd>Click on the <uicontrol>Text</uicontrol> tab. (It is slightly more complicated
+                    to perform these tasks in <uicontrol>Author</uicontrol> view).</cmd>
+            </step>
+            <step><cmd>Type <codeph>&lt;topicref href=""&gt;</codeph></cmd>
+                <stepresult>Your linked topics will automatically come up.</stepresult></step>
+       <step><cmd>Choose a topic.</cmd></step>
+            <step><cmd>Make sure to add your end <codeph>&lt;/topicref&gt;</codeph> tag.</cmd></step>
+            <step><cmd>Add other topics as desired.</cmd></step>
+            <step><cmd>To nest a topic inside another, simply put its
+                <codeph>&lt;topicref&gt;</codeph>inside it.</cmd>
+                <stepxmp><codeph>&lt;topicref href="main.dita"
+                    &gt;&lt;topicref href="subtopic.dita"&gt;&lt;/topicref&gt;&lt;/topicref&gt;</codeph></stepxmp>
+               
+                <stepresult>You will now have an organized map of DITA topics.</stepresult></step>
+        
+        </steps>
+    </taskbody>
+</task>

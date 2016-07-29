@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nwd_tcx_4w">
+    <title>How to create a task topic in oXygen XML</title>
+    <shortdesc>A step-by-step guide.</shortdesc>
+    <taskbody>
+        <prereq>You'll need a functioning copy of oXygenXML. 30-day free trials are available at <xref 
+            href="http://www.oxygenxml.com" format="html">oXygenXML.com</xref>
+            .</prereq>
+        <steps>
+            <step>
+                <cmd>Open oXygen XML.</cmd>
+            </step>
+            <step>
+                <cmd>Go the <uicontrol>File</uicontrol> menu.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>New...</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Under <uicontrol>Search or select a document type</uicontrol>, go to the folder
+                    that says <uicontrol>Framework templates</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>DITA</uicontrol> folder.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the <uicontrol>topic</uicontrol> folder.</cmd>
+            </step>
+            <step>
+                <cmd>Finally, click on the <uicontrol>task</uicontrol> icon. </cmd>
+                <stepresult>A new task topic will be
+                    created.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

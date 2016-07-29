@@ -1,0 +1,14 @@
+fil = new Array();
+fil["0"]= "Creating DITA content with oXygen XML.html@@@Creating DITA content with oXygen XML@@@A brief guide for beginners...";
+fil["1"]= "Creating a DITA map.html@@@Creating a DITA map@@@oXygen XML makes it easy to organize topics in a DITA map. This is particularly helpful when transforming content into an output such as WebHelp...";
+fil["2"]= "Creating a concept.html@@@How to create a concept topic in oXygen XML@@@A step-by-step guide...";
+fil["3"]= "Creating a glossentry.html@@@How to create a glossary topic in oXygenXML@@@A step-by-step guide...";
+fil["4"]= "Creating a reference.html@@@How to create a reference topic in oXygen XML@@@A step-by-step guide...";
+fil["5"]= "Creating a task.html@@@How to create a task topic in oXygen XML@@@A step-by-step guide...";
+fil["6"]= "Creating topics.html@@@Creating topics@@@DITA content is organized into four main topic types: concept, task, reference, and glossary entry. Following are instructions on how to create them...";
+fil["7"]= "DITA Maps.html@@@DITA Maps@@@The following instructions allow you to organize and transform your topics into a functioning WebHelp output...";
+fil["8"]= "Glossary.html@@@Glossary@@@...";
+fil["9"]= "Introduction.html@@@Introduction@@@A brief guide for beginners...";
+fil["10"]= "Organizing a DITA map.html@@@Organizing a DITA map@@@This brief series of steps will who you how to organize your DITA topics...";
+fil["11"]= "Transforming a DITA map into a WebHelp output.html@@@Transforming a DITA map into a WebHelp output@@@oXygen XML has many attractive transformation scenarios. When you are in a DITA map file (as opposed to a topic file), these are located on the bottom right side of the screen. In this tutorial, we will choose the WebHelp Classic output...";
+fil["12"]= "Why oXygen XML.html@@@Why oXygen XML?@@@Using DITA can be intimidating at first, even for those who have experience with markup languages like HTML. oXygen XML has several features that make authoring much easier: oXygen XML provides...";

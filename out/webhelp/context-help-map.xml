@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_ybl_2zc_pw" path="Introduction.html"/>
+   <appContext helpID="topic_ck3_lnf_pw" path="Creating%20topics.html"/>
+   <appContext helpID="task_nwd_tcx_4w" path="Creating%20a%20concept.html"/>
+   <appContext helpID="task_nwd_tcx_4w" path="Creating%20a%20task.html"/>
+   <appContext helpID="task_nwd_tcx_4w" path="Creating%20a%20reference.html"/>
+   <appContext helpID="task_nwd_tcx_4w" path="Creating%20a%20glossentry.html"/>
+   <appContext helpID="concept_hhd_ksf_pw" path="DITA%20Maps.html"/>
+   <appContext helpID="task_xdr_bpf_pw" path="Creating%20a%20DITA%20map.html"/>
+   <appContext helpID="task_xdr_bpf_pw" path="Organizing%20a%20DITA%20map.html"/>
+   <appContext helpID="task_xdr_bpf_pw"
+               path="Transforming%20a%20DITA%20map%20into%20a%20WebHelp%20output.html"/>
+   <appContext helpID="glossgroup_uzq_xfd_pw" path="Glossary.html"/>
+</map>

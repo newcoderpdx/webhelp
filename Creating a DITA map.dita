@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xdr_bpf_pw">
+    <title>Creating a DITA map</title>
+    <shortdesc> oXygen XML makes it easy to organize topics in a DITA map. This is particularly
+        helpful when transforming content into an output such as WebHelp.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the <uicontrol>File</uicontrol> menu.</cmd>
+            </step>
+            <step><cmd>Click on <uicontrol>New...</uicontrol></cmd></step>
+            <step>
+                <cmd>Click on the <uicontrol>Framework templates</uicontrol> folder.</cmd>
+            </step>
+       <step><cmd>Click on the <uicontrol>DITA Maps</uicontrol> folder.</cmd></step>
+            <step>
+                <cmd>Click on the <uicontrol>map</uicontrol> folder.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the <uicontrol>map</uicontrol> icon.</cmd>
+            </step>
+            <step>
+                <cmd>A <uicontrol>Select editor</uicontrol> dialog box will open. Choose the
+                        <uicontrol>Editor</uicontrol> option.</cmd>
+                <stepresult>You will now have a DITA map with the .ditamap extension.</stepresult>
+            </step>
+        
+        </steps>
+    </taskbody>
+</task>

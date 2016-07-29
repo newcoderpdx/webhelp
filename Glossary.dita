@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_uzq_xfd_pw">
+  <title>Glossary</title>
+  <glossentry id="glossentry_asz_y2d_pw">
+    <glossterm>DITA</glossterm>
+    <glossdef>
+      <p>DITA, which stands for Darwin Information Typing Architecture, is an XML-based,
+        tool-independent way to create, organize, and manage content.<fn>Definition from <xref
+            href="http://www.learningDITA.com" format="html">LearningDITA.com</xref></fn></p>
+    </glossdef>
+  </glossentry>
+    <glossentry id="ditamap">
+      <glossterm>DITA map</glossterm>
+      <glossdef>A map of DITA topics.</glossdef>
+  </glossentry>
+  <glossentry id="oXygenXML">
+    <glossterm>oXygen XML</glossterm>
+    <glossdef>
+An advanced, intuitive XML editor with many helpful features.</glossdef>
+  </glossentry>
+</glossgroup>
